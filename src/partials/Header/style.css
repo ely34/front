@@ -1,0 +1,53 @@
+body{ 
+  margin: 0;
+}
+header {
+    background-size: cover;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+  }
+  .logo{
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .logo img {
+    width: 150px;
+    height: 150px;  
+   margin-right: 600px;
+  }
+  nav {
+    
+    
+  }
+  nav ul {
+    list-style-type: none;
+    display: flex;
+  }
+  
+  nav ul li {
+    margin-right: 40px;
+    display: flex;
+   align-items: flex-end;
+   margin-top: 20px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #000;
+  }
+  
+  nav ul li a:hover {
+    color: #ff0000;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
