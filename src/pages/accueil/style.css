@@ -1,4 +1,15 @@
-h2{
+@font-face {
+  font-family: "DMserif" ;
+  src: url(/./public/font/DMSerifDisplay-Regular.ttf);
+}
+body{
+  font-family:"DMserif" ;
+  
+ 
+}
+
+
+h1{ font-family: Arial;
     margin-top: 100px;
     margin-left: 50% 
 }
@@ -16,11 +27,11 @@ h2{
     height: 300px;
   }
   
-  .text-container {
+  .text-container p{
     flex: 1;
-    padding-left: 20px; /* Espacement à gauche pour le texte */
+    padding-left: 80px; /* Espacement à gauche pour le texte */
   }
-  h3{
+  h2{ font-family: Arial;
     margin-left: 50% 
   }
   .carte{

@@ -25,7 +25,7 @@ const Footer = () => {
         </div>
        
         <div className="footer5">
-            <h5>Nos reseaux sociaux</h5>
+            <h3>Nos reseaux sociaux</h3>
             <div className="insta">
                 
                     <img src="/./img/insta.png" alt="Instagram" class="img"/>

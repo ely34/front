@@ -1,4 +1,4 @@
-h1{
+h1{ font-family: Arial;
     margin-left: 50%;
     margin-top: 40px;
 }
@@ -22,4 +22,5 @@ h1{
   }
   p{
     font-size: 30px;
+    
   }
